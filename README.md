@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#![Visitor Count](https://profile-counter.glitch.me/Heprain/count.svg)
 
 I am currently pursuing a master's degree at the Civil Aviation University of China in Tianjin, China.
 

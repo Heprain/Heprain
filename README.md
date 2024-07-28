@@ -20,12 +20,9 @@ I am currently pursuing a master's degree at the Civil Aviation University of Ch
 I am now focusing on change detection, RGB-D salient object detection research. Looking forward to discussing academic issues with you, please feel free to email me at [qingy_zhao@163.com](mailto:qingy_zhao@163.com).
 
 ### 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- Personal Pages: https://heprain.github.io/zqys.github.io/
+- Google Scholar: https://scholar.google.com/citations?user=_y5GTOwAAAAJ
 
 ### 💻 Selected Research Papers
-
-My full paper list is shown at [my personal homepage](https://rayeren.github.io).
+My full paper list is shown at [my personal homepage](https://heprain.github.io/zqys.github.io/).
 
